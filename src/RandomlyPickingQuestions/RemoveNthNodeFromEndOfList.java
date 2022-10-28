@@ -1,4 +1,4 @@
-package Day5;
+package RandomlyPickingQuestions;
 
 public class RemoveNthNodeFromEndOfList {
     static class ListNode{

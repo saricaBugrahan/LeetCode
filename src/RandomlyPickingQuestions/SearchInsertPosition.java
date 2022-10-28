@@ -1,4 +1,4 @@
-package Day1;
+package RandomlyPickingQuestions;
 
 public class SearchInsertPosition {
     public static int insert(int[] nums, int target)

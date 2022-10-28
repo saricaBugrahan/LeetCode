@@ -1,4 +1,4 @@
-package Day1;
+package RandomlyPickingQuestions;
 
 public class FirstBadVersion {
     public int firstBadVersion(int n) {

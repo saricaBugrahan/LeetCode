@@ -1,4 +1,4 @@
-package Day4;
+package RandomlyPickingQuestions;
 
 public class ReverseStringIII {
     public static String reverseWords(String s){

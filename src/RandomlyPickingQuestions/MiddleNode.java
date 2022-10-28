@@ -1,4 +1,4 @@
-package Day5;
+package RandomlyPickingQuestions;
 
 public class MiddleNode {
     static class ListNode{

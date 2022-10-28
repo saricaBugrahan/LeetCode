@@ -1,4 +1,4 @@
-package Day2;
+package RandomlyPickingQuestions;
 
 import java.util.Arrays;
 /*
