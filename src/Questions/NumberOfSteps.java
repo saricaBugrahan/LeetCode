@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 public class NumberOfSteps {
     public int numberOfSteps(int n){

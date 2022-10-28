@@ -1,8 +1,6 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 import java.util.Arrays;
-import java.util.Collection;
-import java.util.Collections;
 
 public class KWeakest {
     public static int[] kWeakestRows(int[][] mat, int k) {

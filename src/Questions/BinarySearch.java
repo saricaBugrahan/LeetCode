@@ -9,7 +9,7 @@
             -if nums[mid] equal to target, return mid
         3. return -1 because it is not found
  */
-package RandomlyPickingQuestions;
+package Questions;
 public class BinarySearch {
     public static int search(int[] nums, int target){
         int low = 0, high = nums.length-1, mid;

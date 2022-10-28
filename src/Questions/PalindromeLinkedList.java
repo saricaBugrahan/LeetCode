@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 public class PalindromeLinkedList {
     class ListNode{
         ListNode next;

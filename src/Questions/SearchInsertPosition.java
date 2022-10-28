@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 public class SearchInsertPosition {
     public static int insert(int[] nums, int target)

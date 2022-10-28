@@ -1,6 +1,4 @@
-package RandomlyPickingQuestions;
-
-import java.util.Arrays;
+package Questions;
 
 public class ReverseString {
     public static void reverseString(char[] s){

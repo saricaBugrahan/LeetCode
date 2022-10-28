@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 import java.util.Arrays;
 

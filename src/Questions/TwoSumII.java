@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 /*
     Sorted Array Two Sum

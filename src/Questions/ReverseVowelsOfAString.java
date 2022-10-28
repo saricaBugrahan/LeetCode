@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 public class ReverseVowelsOfAString {
     public static String reverseVowels(String s){

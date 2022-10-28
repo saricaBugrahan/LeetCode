@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 public class MaximumWealth {
     public int maximumWealth(int[][] accounts) {

@@ -1,4 +1,4 @@
-package RandomlyPickingQuestions;
+package Questions;
 
 public class CanConstruct {
     public boolean canConstruct(String ransomNote, String magazine) {
